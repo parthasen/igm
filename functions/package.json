@@ -9,4 +9,7 @@
     "firebase-functions": "^2.0.1"
   },
   "private": true
+  "engines": {
+   "node": "8"
+  },
 }
